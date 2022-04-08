@@ -11,5 +11,3 @@ ___
     * seconds.
 * Logo and background pictures that can be changed easily.
 * [Coming Soon Landing Page](https://markiine.github.io/TARge21_ComingSoonApp/ "Coming Soon Landing Page With Countdown")
-
-![Markdown Logo ](img/logo.png)
